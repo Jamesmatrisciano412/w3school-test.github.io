@@ -1,0 +1,59 @@
+[33mcommit 38cd5c8ee06c21c01d530d593df6d627d9ad5b65[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Jamesmatrisciano412 <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 14:00:07 2024 -0800
+
+    Update Readme.md
+
+[33mcommit 8e7ed911001527f5b43f84d181a60ebb2e79f435[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:39:11 2024 -0800
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 79ff87c07ec90d7ad284a633a1160775c91f85af[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:34:20 2024 -0800
+
+    added new image
+
+[33mcommit ba1411fc256a82a62d3cf5cb14229b0b667b0165[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:31:39 2024 -0800
+
+    Initializing the project
+
+[33mcommit 4e67ec2c011e0a2a4f0b634883670c580532dc48[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:27:48 2024 -0800
+
+    added new image
+
+[33mcommit b217b3e76fde1e4f73d9dc26e138ce53e32cea8f[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:25:18 2024 -0800
+
+    added new image
+
+[33mcommit 48d932627e20b59955ce806210803620063d1007[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:14:02 2024 -0800
+
+    Added image to Hello World
+
+[33mcommit 217c0877f71d1a30d0e8bf6a2cc683caeda589c6[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 14:44:05 2024 -0800
+
+    Added image to Hello World
+
+[33mcommit f1cc491a2a45804dd8125dd98a83f9f6599ca2e4[m[33m ([m[1;32me,ergemcu-fix[m[33m)[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 14:06:36 2024 -0800
+
+    Updated index.html with a new line
+
+[33mcommit 18bca4bed9d1031e38c1f7d629d6c5a3419f6c83[m
+Author: James <jamesmatrisciano412@gmail.com>
+Date:   Sat Dec 21 13:51:10 2024 -0800
+
+    First release of Hello World!
